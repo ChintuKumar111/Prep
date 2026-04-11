@@ -1,11 +1,15 @@
 package Array;
 
 public class LargestInArray {
+
     static void main() {
+
         int arr [] = new int[5];
         int max = 0;
         int Smax= 0;
-// also we can search for third max
+
+    // also we can search for third max
+
        arr = new int[]{11,12,5,34,5};
        arr[0] = max;
 
